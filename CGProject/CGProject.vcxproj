@@ -130,7 +130,7 @@
     <ClCompile Include="FerrisWheel.cpp" />
     <ClCompile Include="merrigo.cpp" />
     <ClCompile Include="ModifiedFW.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="WelcomeScreen.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
